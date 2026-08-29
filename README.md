@@ -239,6 +239,6 @@ Successfully designed and validated a **secure AWS VPC architecture with isolate
 
 ## Author
 
-**Rick Ritwik**
+**Divyanshi**
 
 B.Tech Computer Science & Engineering | KIIT University
